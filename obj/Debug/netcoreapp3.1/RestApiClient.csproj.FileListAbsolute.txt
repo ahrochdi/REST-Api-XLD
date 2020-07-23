@@ -1,0 +1,16 @@
+/home/student/Bureau/RR/RestApiClient/bin/Debug/netcoreapp3.1/RestApiClient
+/home/student/Bureau/RR/RestApiClient/bin/Debug/netcoreapp3.1/RestApiClient.deps.json
+/home/student/Bureau/RR/RestApiClient/bin/Debug/netcoreapp3.1/RestApiClient.runtimeconfig.json
+/home/student/Bureau/RR/RestApiClient/bin/Debug/netcoreapp3.1/RestApiClient.runtimeconfig.dev.json
+/home/student/Bureau/RR/RestApiClient/bin/Debug/netcoreapp3.1/RestApiClient.dll
+/home/student/Bureau/RR/RestApiClient/bin/Debug/netcoreapp3.1/RestApiClient.pdb
+/home/student/Bureau/RR/RestApiClient/obj/Debug/netcoreapp3.1/RestApiClient.csprojAssemblyReference.cache
+/home/student/Bureau/RR/RestApiClient/obj/Debug/netcoreapp3.1/RestApiClient.AssemblyInfoInputs.cache
+/home/student/Bureau/RR/RestApiClient/obj/Debug/netcoreapp3.1/RestApiClient.AssemblyInfo.cs
+/home/student/Bureau/RR/RestApiClient/obj/Debug/netcoreapp3.1/RestApiClient.csproj.CoreCompileInputs.cache
+/home/student/Bureau/RR/RestApiClient/obj/Debug/netcoreapp3.1/RestApiClient.dll
+/home/student/Bureau/RR/RestApiClient/obj/Debug/netcoreapp3.1/RestApiClient.pdb
+/home/student/Bureau/RR/RestApiClient/obj/Debug/netcoreapp3.1/RestApiClient.genruntimeconfig.cache
+/home/student/Bureau/RR/RestApiClient/bin/Debug/netcoreapp3.1/RestSharp.dll
+/home/student/Bureau/RR/RestApiClient/obj/Debug/netcoreapp3.1/RestApiClient.csproj.CopyComplete
+/home/student/Bureau/RR/RestApiClient/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

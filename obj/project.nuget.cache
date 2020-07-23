@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmFgNe47tlq4BSdWpojFi7gd5vHi8z6VuZ63ZArE2MZTV9sycsYOgCGq5cNak61ZlnHtDHkUsXi9kx/Q2mtZHw==",
+  "success": true,
+  "projectFilePath": "/home/student/Bureau/RR/RestApiClient/RestApiClient.csproj",
+  "expectedPackageFiles": [
+    "/home/student/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/student/.nuget/packages/restsharp/106.11.4/restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}
